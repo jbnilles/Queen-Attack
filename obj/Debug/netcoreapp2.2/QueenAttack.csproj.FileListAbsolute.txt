@@ -1,0 +1,11 @@
+C:\Users\Gman9\Epicodus\C#\Queen-Attack\obj\Debug\netcoreapp2.2\QueenAttack.csprojAssemblyReference.cache
+C:\Users\Gman9\Epicodus\C#\Queen-Attack\obj\Debug\netcoreapp2.2\QueenAttack.csproj.CoreCompileInputs.cache
+C:\Users\Gman9\Epicodus\C#\Queen-Attack\obj\Debug\netcoreapp2.2\QueenAttack.AssemblyInfoInputs.cache
+C:\Users\Gman9\Epicodus\C#\Queen-Attack\obj\Debug\netcoreapp2.2\QueenAttack.AssemblyInfo.cs
+C:\Users\Gman9\Epicodus\C#\Queen-Attack\bin\Debug\netcoreapp2.2\QueenAttack.deps.json
+C:\Users\Gman9\Epicodus\C#\Queen-Attack\bin\Debug\netcoreapp2.2\QueenAttack.runtimeconfig.json
+C:\Users\Gman9\Epicodus\C#\Queen-Attack\bin\Debug\netcoreapp2.2\QueenAttack.runtimeconfig.dev.json
+C:\Users\Gman9\Epicodus\C#\Queen-Attack\bin\Debug\netcoreapp2.2\QueenAttack.dll
+C:\Users\Gman9\Epicodus\C#\Queen-Attack\bin\Debug\netcoreapp2.2\QueenAttack.pdb
+C:\Users\Gman9\Epicodus\C#\Queen-Attack\obj\Debug\netcoreapp2.2\QueenAttack.dll
+C:\Users\Gman9\Epicodus\C#\Queen-Attack\obj\Debug\netcoreapp2.2\QueenAttack.pdb
